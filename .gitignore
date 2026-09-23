@@ -1,0 +1,32 @@
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Model weights / downloaded models
+models/
+*.pth
+*.pt
+*.onnx
+
+# Archives / datasets
+*.zip
+data/
+datasets/
+
+# Private/reference face images
+FALAH.jpg
+aldan.jpeg
+nasya.jpeg
+
+# Secrets / local config
+.env
+*.env
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

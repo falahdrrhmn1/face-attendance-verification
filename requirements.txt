@@ -1,0 +1,7 @@
+numpy
+opencv-python
+openvino
+torch
+torchvision
+timm
+thop
